@@ -1,0 +1,136 @@
+*{
+    font-family: sans-serif;
+}
+
+
+#section{
+    padding: 50px 0px;
+}
+
+
+h1 {
+    font-size: 54px;
+    line-height: 68px;
+    font-weight: 800px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+h1 span {
+    color: #64E687;
+}
+
+
+h2 {
+    font-size: 50px;
+    line-height: 1.3px;
+    font-weight: 600px;
+    color: black;
+    margin-bottom: 45px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600px;
+    color: black;
+    margin-bottom: 19px;
+}
+
+h6 {
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: block;
+    color: black;
+    margin-bottom: 20px;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    font-weight: 400px;
+}
+
+.header_wrapper{
+    background-color:white;
+}
+
+
+.brand{
+    width: 70px;
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 595px;
+}
+
+.carousel-caption {
+    top: 72px    ;
+}
+
+
+.training1{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/images/training1.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+
+.training2{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/training2.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+.training3{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/training3.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+.training4{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/training4.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+.training5{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/training5.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+.training6{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/training6.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+.training7{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/training7.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 390px;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.news-back{
+    width: 100%;
+    background-image: url(/images/news-back.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.team{
+    height: 100px;
+}
+
+
+
+
